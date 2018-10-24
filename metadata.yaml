@@ -1,5 +1,8 @@
 _repo: The-Historians-History-of-the-World-in-Twenty-Five-Volumes-Volume-6-The-Early-Roman-Empire_58124
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58124-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/698
     wikipedia: http://en.wikipedia.org/wiki/Henry_Smith_Williams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58124#The-Historians-History-of-the-World-in-Twenty-Five-Volumes-Volume-6-The-Early-Roman-Empire
 gutenberg_issued: '2018-10-17'
 gutenberg_type: Text
 identifiers:
