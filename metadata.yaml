@@ -1,0 +1,30 @@
+_repo: The-Historians-History-of-the-World-in-Twenty-Five-Volumes-Volume-6-The-Early-Roman-Empire_58124
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Williams, Henry Smith
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '698'
+    url: http://www.gutenberg.org/2009/agents/698
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Smith_Williams
+description: ''
+gutenberg_issued: '2018-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58124'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Historians'' History of the World in Twenty-Five Volumes, Volume 6
+
+  The Early Roman Empire'
+url: http://www.gutenberg.org/ebooks/58124
